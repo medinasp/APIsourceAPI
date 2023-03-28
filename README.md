@@ -14,9 +14,7 @@ API NODE.JS MVC - SQL SERVER
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+<br>
 
 ## Descrição do projeto 
 
@@ -34,7 +32,7 @@ Ao escrever este readme, estou considerando o uso desta API para ser consumida p
 
 `Preparação:`
 <!-- ![Tela de abertura](Images/abertura.jpg) -->
-* Abra o a pasta dos arquivos na IDE
+* Abra a pasta dos arquivos na IDE
 
 * Abra o arquivo db.js e preencha as credenciais do banco Sql Server
 
@@ -61,7 +59,7 @@ Ao escrever este readme, estou considerando o uso desta API para ser consumida p
 
 `Verificar endpoints em controllers/ProdutoController.js`
 
-✅ `Create:` Realizar cadastro de usuário administrador.
+✅ `Create:`
    * Exemplo de json para end point "Create":
       Post: localhost:4200/Create
       Json Content:
